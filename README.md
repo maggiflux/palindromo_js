@@ -1,6 +1,6 @@
 ﻿# palindromo_js
  
-Verificador de palindrindromo con 4 bloques de código diferentes
+Verificador de palindrindromo con 4 soluciones diferentes, incluyendo mi favorita con operador condicional (ternario)
 
 //RESPUESTA #1 con función flecha e if else
 
